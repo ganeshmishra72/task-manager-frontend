@@ -6,9 +6,9 @@ A modern and responsive Task Management Web Application Frontend built using Nex
 
 📌 Live Demo
 
-🌐 Frontend URL: https://your-app.vercel.app
+🌐 Frontend URL: https://rdtms.vercel.app/login
 
-🔗 Backend API: https://your-backend.onrender.com/api/v1
+🔗 Backend API: https://backend-tms-z5n6.onrender.com
 
 🔗 Backend Gitup Repo: https://github.com/ganeshmishra72/task-manager-backend.git
 
