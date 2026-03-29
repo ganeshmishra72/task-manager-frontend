@@ -7,7 +7,10 @@ A modern and responsive Task Management Web Application Frontend built using Nex
 📌 Live Demo
 
 🌐 Frontend URL: https://your-app.vercel.app
+
 🔗 Backend API: https://your-backend.onrender.com/api/v1
+
+🔗 Backend Gitup Repo: https://github.com/ganeshmishra72/task-manager-backend.git
 
 ---
 
@@ -49,17 +52,29 @@ A modern and responsive Task Management Web Application Frontend built using Nex
 📁 Project Structure
 
 src/
+
  ├── app/
+ 
  │   ├── login/
+ 
  │   ├── register/
+ 
  │   ├── dashboard/
+ 
  │   └── layout.js
+ 
  ├── components/
+ 
  │   ├── TaskForm.jsx
+ 
  │   ├── TaskList.jsx
+ 
  ├── services/
+ 
  │   └── api.js
+ 
  ├── store/
+ 
  │   └── authStore.js
 
 ---
