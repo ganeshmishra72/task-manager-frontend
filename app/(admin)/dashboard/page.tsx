@@ -1,9 +1,9 @@
-import Home from '@/components/Home'
+import AdminDashboard from '@/components/Admin'
 import React from 'react'
 
 const page = () => {
   return (
-   <Home/>
+    <AdminDashboard />
   )
 }
 

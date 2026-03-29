@@ -1,9 +1,9 @@
-import Home from '@/components/Home'
+import RegisterPage from '@/components/Register'
 import React from 'react'
 
 const page = () => {
   return (
-   <Home/>
+   <RegisterPage />
   )
 }
 

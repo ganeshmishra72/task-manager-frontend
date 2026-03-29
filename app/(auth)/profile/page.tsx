@@ -1,9 +1,9 @@
-import Home from '@/components/Home'
+import ProfilePage from '@/components/Profile'
 import React from 'react'
 
 const page = () => {
   return (
-   <Home/>
+    <ProfilePage />
   )
 }
 
